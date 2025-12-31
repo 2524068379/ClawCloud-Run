@@ -46,7 +46,7 @@ requests
 chromium
 chromium-chromedriver
 ```
-![依赖](./img/青龙面板添加 Linux 依赖.png)
+![依赖](./img/青龙面板添加%20Linux%20依赖.png)
 
 
 或 SSH 进入容器执行：
@@ -54,7 +54,7 @@ chromium-chromedriver
 ```bash
 apk add chromium chromium-chromedriver
 ```
-![依赖](./img/进入容器添加 Linux 依赖.png)
+![依赖](./img/进入容器添加%20Linux%20依赖.png)
 
 
 #### 2. 添加 Python 依赖
@@ -65,7 +65,7 @@ apk add chromium chromium-chromedriver
 selenium
 requests
 ```
-![依赖](./img/青龙面板添加 Python 依赖.png)
+![依赖](./img/青龙面板添加%20Python%20依赖.png)
 
 
 #### 3. 创建青龙应用
@@ -295,6 +295,7 @@ chromedriver --version
 **如果这个项目对你有帮助，请给个 ⭐ Star 支持一下！**
 
 ---
+
 
 
 
